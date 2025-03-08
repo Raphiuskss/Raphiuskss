@@ -4,9 +4,8 @@
 - 🔭 Hoje eu trabalho como consultor na Cummins Brasil e Grupo Motormac 
 - 🌱 Estou estudando analise e desenvolvimento de sistemas 
 - 👯 Contate-me no e-mail: raphab2bmga@gmail.com
-- 🤔 I’m looking for help with ...
+- 🏖️ Eu amo estar em contato com a natureza, ela lhe traz paz e leveza. 
 - 😄 Pronouns: Ele/Dele
--->
 
   <div> 
   
